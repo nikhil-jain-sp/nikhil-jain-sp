@@ -5,7 +5,7 @@
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/27320729/nikhil-jain)
 [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=LeetCode&logoColor=black)](https://leetcode.com/u/nikhil__jain/)
 
-🔭 Currently deep-diving into offensive security as I prep for the OSCP certification (wish me luck! 🍀). Still tinkering with cloud environments on the side, because old habits die hard 😅
+🔭 Currently deep-diving into offensive security as I prep for the OSCP certification (wish me luck! 🍀). Still tinkering with cloud environments on the side, because old habits die hard 😅<br>
 👯 Always up for collaboration on full-stack projects, penetration testing adventures, or anything DevOps-related. Let's build something cool together!<br>
 🌱 Wrapping up my final semester at ASU, knee-deep in Information Systems Security and Cloud Architecture. Also, actively hunting for exciting job opportunities post-graduation! 🎓<br>
 💬 Got questions about full-stack dev, cybersecurity best practices, or AWS cloud solutions? I'm your guy! (Though I might get a bit too excited talking about it)<br>
